@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#061D63</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <!-- Red colors -->
+    <color name="red_50">#FFFEE5E5</color>
+    <color name="red_100">#FFFFE3E3</color>
+    <color name="red_200">#FFFFCDD2</color>
+    <color name="red_300">#FFEF9A9A</color>
+    <color name="red_400">#FFE57373</color>
+    <color name="red_500">#FFF44336</color>
+    <color name="red_600">#FFE53935</color>
+    <color name="red_700">#FFD32F2F</color>
+    <color name="red_800">#FFC62828</color>
+    <color name="red_900">#FFB71C1C</color>
+
+    <!-- Green colors -->
+    <color name="green_50">#FFF1F8E9</color>
+    <color name="green_100">#FFDCEDC8</color>
+    <color name="green_200">#FFC5E1A5</color>
+    <color name="green_300">#FFAED581</color>
+    <color name="green_400">#FF9CCC65</color>
+    <color name="green_500">#FF8BC34A</color>
+    <color name="green_600">#FF7CB342</color>
+    <color name="green_700">#FF689F38</color>
+    <color name="green_800">#FF558B2F</color>
+    <color name="green_900">#FF33691E</color>
+
+    <!-- Blue colors -->
+    <color name="blue_50">#FFE3F2FD</color>
+    <color name="blue_100">#FFBBDEFB</color>
+    <color name="blue_200">#FF90CAF9</color>
+    <color name="blue_300">#FF64B5F6</color>
+    <color name="blue_400">#FF42A5F5</color>
+    <color name="blue_500">#FF2196F3</color>
+    <color name="blue_600">#FF1E88E5</color>
+    <color name="blue_700">#FF1976D2</color>
+    <color name="blue_800">#FF1565C0</color>
+    <color name="blue_900">#FF0D47A1</color>
+
+    <!-- Gray colors -->
+    <color name="gray_50">#FFF7F7F7</color>
+    <color name="gray_100">#FFECEFF1</color>
+    <color name="gray_200">#FFCFD8DC</color>
+    <color name="gray_300">#FFBFBFBF</color>
+    <color name="gray_400">#FFA5A5A5</color>
+    <color name="gray_500">#FF9E9E9E</color>
+    <color name="gray_600">#FF757575</color>
+    <color name="gray_700">#FF616161</color>
+    <color name="gray_800">#FF424242</color>
+    <color name="gray_900">#FF212121</color>
+
+</resources>

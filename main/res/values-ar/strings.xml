@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تجارة الكترونية</string>
+    <string name="enter_your_email">ادخل بريدك الالكترونى</string>
+    <string name="enter_your_password">"ادخل كلمة "</string>
+    <string name="login">دخول</string>
+    <string name="don_t_have_an_account">لا يوجد لديك حساب؟</string>
+    <string name="signup">تسجيل حساب</string>
+    <string name="enter_your_name">ادخل اسمك</string>
+    <string name="already_have_an_account">هل لديك حساب بالفعل</string>
+    <string name="sign_in">تسجيل الدخول</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">e-commerce</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t Have An Account?</string>
+    <string name="signup">Signup</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="already_have_an_account">Already Have An Account?</string>
+    <string name="sign_in">sign in</string>
+
+</resources>
